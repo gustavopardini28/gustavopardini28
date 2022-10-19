@@ -12,4 +12,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-https://skillicons.dev/icons?i=js,html,css,wasm
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
